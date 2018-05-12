@@ -22,7 +22,7 @@ Get /depth
 
 URL http://market.top.one/depth?market=TOP/ETH
 
-1)获取交易成交数据
+3)获取交易成交数据
 
 Get /deals
 
