@@ -7,6 +7,7 @@ TOP.ONE 对外行情接口说明
 REST访问的根URL：http://market.top.one/
 
 API参考
+
 1)获取交易所交易列表及24小时涨跌统计
 Get /list
 URL http://market.top.one/list
