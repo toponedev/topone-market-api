@@ -16,7 +16,7 @@ Get /list
 
 URL http://market.top.one/list
 
-数据示例：
+Response示例：
 
       [{"market": "TOP/ETH",            #名称
       "symbol_key": "TOP",              #标的
@@ -38,7 +38,7 @@ Get /depth
 
 URL http://market.top.one/depth?market=TOP/ETH
 
-数据示例：
+Response示例：
 
       {"bids":
           [["0.00001199", "60822"],     #价格，数量
@@ -70,7 +70,7 @@ Get /deals
 
 URL http://market.top.one/deals?market=TOP/ETH
 
-数据示例：
+Response示例：
 
       [[1526131288.302842, "0.00001238", "71782", "buy"],   #时间，价格，数量，买卖
       [1526131262.346612, "0.00001237", "9000", "buy"], 
