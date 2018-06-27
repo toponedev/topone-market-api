@@ -1,5 +1,5 @@
 # topone-market-api
-Official Documentation for the market APIs
+APIs for Market software, not for traders (用于行情软件，不用于交易者--数据延迟)
 
 URL：http://market.top.one/
 
